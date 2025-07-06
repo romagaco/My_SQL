@@ -1,0 +1,6 @@
+
+CREATE database WORLD1;
+USE WORLD;
+
+SHOW CHARACTER SET;
+
